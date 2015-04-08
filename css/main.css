@@ -1,0 +1,19 @@
+body {
+  height: 100%;
+  background-color: #CE0004;
+  color: #fff;
+}
+
+.cover-container {
+  margin-right: auto;
+  margin-left: auto;
+  width: 700px;
+}
+
+.title {
+  text-align: center;
+}
+
+.logo {
+    margin-top: 100px;
+}
